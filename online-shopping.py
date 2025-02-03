@@ -1,3 +1,10 @@
+
+#implementation of online shopping system by python 
+
+
+
+
+
 import mysql.connector as c
 from mysql.connector import Error
 from tabulate import tabulate
